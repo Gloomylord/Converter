@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c18d722f-5a77-460e-be40-f919f16e1419" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../project" />
+  </component>
+  <component name="ProjectId" id="1l0hI44B3iCxyMwadYRrzJLjxJL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-ts/src/components/Slider/Slider.tsx" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/../project/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../project/src/components/CustomTable/functions" />
+      <recent name="$PROJECT_DIR$/../project/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c18d722f-5a77-460e-be40-f919f16e1419" name="Default Changelist" comment="" />
+      <created>1606739832640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606739832640</updated>
+      <workItem from="1606739834897" duration="16341000" />
+      <workItem from="1606805047198" duration="29495000" />
+      <workItem from="1606891627680" duration="20245000" />
+      <workItem from="1606980062437" duration="17379000" />
+      <workItem from="1607066174152" duration="29034000" />
+      <workItem from="1607154134667" duration="23069000" />
+      <workItem from="1607238034000" duration="2769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="357" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607178771429">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="704" y="357" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1607178771429" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606742948528">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1606742948528" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1607238067089">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1607238067089" />
+    <state x="562" y="259" width="863" height="586" key="find.popup" timestamp="1607156620192">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="562" y="259" width="863" height="586" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1607156620192" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1607097604795">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1607097604795" />
+    <state x="656" y="257" key="search.everywhere.popup" timestamp="1606757405224">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1606757405224" />
+  </component>
+</project>
