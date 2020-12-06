@@ -37,7 +37,7 @@ function ConverterPage() {
     const {store} = useStore();
 
     useEffect(() => {
-        store.fetchCoinsFrom(store.coinFrom);
+        store.fetchCoins(store.coinFrom, store.coinTo);
     }, [store.coinFrom]);
 
     console.log('coeff', store.coinsCoefficient);

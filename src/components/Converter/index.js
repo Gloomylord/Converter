@@ -67,8 +67,10 @@ function Converter(
     }, [convertFrom, convertTo]);
 
     const onChangeTo = useCallback((e) => {
+        let value = (e.target.value / coefficient < 10) ? +(e.target.value / coefficient).toPrecision(4) + '' :
+            +(e.target.value / coefficient).toFixed(2) + '';
         setTo(e.target.value);
-        setFrom(+(e.target.value / coefficient).toPrecision(5) + '');
+        setFrom(value);
     }, [coefficient]);
 
     const onClick = useCallback(() => {
@@ -76,12 +78,16 @@ function Converter(
     }, [from, to]);
 
     const onChangeFrom = useCallback((e) => {
-        setTo(+(e.target.value * coefficient).toPrecision(5) + '');
+        let value = (e.target.value * coefficient < 10) ? +(e.target.value * coefficient).toPrecision(4) + '' :
+            +(e.target.value * coefficient).toFixed(2) + '';
+        setTo(value);
         setFrom(e.target.value);
     }, [coefficient]);
 
     useEffect(() => {
-        setTo(+(from * coefficient).toPrecision(5) + '');
+        let value = (from  * coefficient < 10) ? +(from  * coefficient).toPrecision(4) + '' :
+            +(from  * coefficient).toFixed(2) + '';
+        setTo(value);
     }, [coefficient, convertFrom, convertTo]);
 
     const classes = useStyles();

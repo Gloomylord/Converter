@@ -33,7 +33,7 @@ function Chart() {
             let date = new Date(value[0]);
             return {
                 name: (i !== 14) ? date.getDate() + '.' + (date.getMonth() + 1) : 'now',
-                'цена': value[1].toPrecision(5),
+                'цена': (value[1] < 10) ? value[1].toPrecision(5) : value[1].toFixed(2),
             }
         })
     }, [store.chartData]);
